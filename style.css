@@ -242,39 +242,6 @@ img {
     margin-right: 15px;
 }
 
-@media (max-width: 1024px) {
-    .mail-fix {
-        margin-left: 60px;
-    }
-
-    .social-fix {
-        margin-right: 60px;
-    }
-}
-@media (max-width: 1274px) {
-    .mail-fix {
-        margin-left: 80px;
-    }
-
-    .social-fix {
-        margin-right: 80px;
-    }
-    .clock {
-        display: none;
-    }
-}
-@media (max-width: 1310px) {
-    .mail-fix {
-        margin-left: 80px;
-    }
-
-    .social-fix {
-        margin-right: 80px;
-    }
-    .clock {
-        display: none;
-    }
-}
 @media (max-width: 1350px) {
     .mail-fix {
         margin-left: 80px;
@@ -283,11 +250,16 @@ img {
     .social-fix {
         margin-right: 80px;
     }
-    .clock {
-        display: none;
-    }
 }
 
+@media (max-width: 1024px) {
+    .mail-fix {
+        margin-left: 60px;
+    }
+    .social-fix {
+        margin-right: 60px;
+    }
+}
 
 @media all and (max-width: 1199px) {
     .header-top-contact ul {
