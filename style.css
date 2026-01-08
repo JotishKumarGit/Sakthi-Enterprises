@@ -242,15 +242,13 @@ img {
     margin-right: 15px;
 }
 
-
-
 @media (max-width: 1024px) {
     .mail-fix {
-        margin-left: 50px;
+        margin-left: 60px;
     }
 
     .social-fix {
-        margin-right: 50px;
+        margin-right: 60px;
     }
     .clock {
         display: none;
