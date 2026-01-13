@@ -25,50 +25,51 @@
     <!-- Breadcrumb Section -->
     <section class="breadcrumb-section">
         <div class="container breadcrumb-content">
-            <h1 class="text-white">Garlic</h1>
+            <h1 class="text-white">Mount Garlic</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Garlic</li>
+                    <li class="breadcrumb-item active" aria-current="page">Mount Garlic</li>
                 </ol>
             </nav>
         </div>
     </section>
 
-    <!-- Product Section -->
+    <!-- ================= PRODUCT DETAILS ================= -->
     <section class="container my-5">
         <div class="row align-items-center">
 
-            <!-- Left Side: Product Image -->
-            <div class="col-md-6 mb-4 mb-md-0">
-                <img src="img/Garlic.jpg" alt="Fresh Garlic" class="img-fluid rounded shadow">
+            <!-- Product Image -->
+            <div class="col-md-6 mb-4">
+                <img src="img/Mount-Garlic.jpg" class="img-fluid rounded shadow" alt="Fresh Mount Garlic">
             </div>
 
-            <!-- Right Side: Product Details -->
+            <!-- Product Details -->
             <div class="col-md-6">
-                <h2 class="mb-3">Fresh Garlic</h2>
+                <h2>Fresh Mount Garlic</h2>
                 <p class="text-muted">
-                    Fresh Garlic is a natural, healthy ingredient used worldwide for its flavor and medicinal
-                    properties.
+                    Mount Garlic is known for its strong aroma, bold flavor, and
+                    high medicinal value. It is widely used in Indian cuisine,
+                    pharmaceuticals, and traditional remedies.
                 </p>
 
-                <ul class="list-unstyled mb-4">
-                    <li><strong>Type:</strong> Organic Garlic</li>
-                    <li><strong>Color:</strong> White with Purple Stripes</li>
+                <ul class="list-unstyled">
+                    <li><strong>Type:</strong> Mount Garlic</li>
+                    <li><strong>Color:</strong> White</li>
                     <li><strong>Form:</strong> Whole Bulbs</li>
-                    <li><strong>Usage:</strong> Cooking, Seasoning, Health Remedies</li>
-                    <li><strong>Packaging:</strong> 100g, 250g, 500g</li>
+                    <li><strong>Usage:</strong> Cooking, Pickle, Medicine</li>
+                    <li><strong>Supply:</strong> Bulk & Retail</li>
                 </ul>
 
                 <p>
-                    Our garlic is carefully harvested to ensure maximum freshness and flavor.
-                    It is perfect for enhancing your meals while supporting overall wellness.
+                    Our mount garlic is carefully sourced from quality farms and
+                    hygienically packed to ensure freshness, longer shelf life,
+                    and superior taste.
                 </p>
 
-                <!-- Enquiry Button -->
-                <a href="" data-bs-toggle="modal" data-bs-target="#enquiryModal" class="btn btn-primary mt-3">
+                <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                     Enquiry Now
-                </a>
+                </button>
             </div>
 
         </div>

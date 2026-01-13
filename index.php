@@ -189,7 +189,7 @@
                                 restaurants, retail stores, and food processing industries.
                             </p>
                             <div class="service-arrow">
-                                <a href="Red-Onion.html" class="theme-btn">View Details<i
+                                <a href="Red-Onion.php" class="theme-btn">View Details<i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -214,7 +214,7 @@
                                 households, restaurants, and food businesses.
                             </p>
                             <div class="service-arrow">
-                                <a href="RNR-Rice.html" class="theme-btn">View Details<i
+                                <a href="RNR-Rice.php" class="theme-btn">View Details<i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -240,7 +240,7 @@
                                 various grades for different culinary applications.
                             </p>
                             <div class="service-arrow">
-                                <a href="Garlic.html" class="theme-btn">View Details<i
+                                <a href="Garlic.php" class="theme-btn">View Details<i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -265,7 +265,7 @@
                                 remedies, and food processing industries.
                             </p>
                             <div class="service-arrow">
-                                <a href="Ginger.html" class="theme-btn">View Details<i
+                                <a href="Ginger.php" class="theme-btn">View Details<i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                                 uses, beverages, and traditional medicines.
                             </p>
                             <div class="service-arrow">
-                                <a href="Green-Cardamom..html" class="theme-btn">Enquiry Now<i
+                                <a href="Green-Cardamom..php" class="theme-btn">Enquiry Now<i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -311,7 +311,7 @@
                             <h3 class="service-title"><a>Tender Coconut</a></h3>
                             <p class="service-text">Fresh tender coconuts rich in nutrients and refreshing taste.</p>
                             <div class="service-arrow">
-                                <a href="tender-coconut.html" class="theme-btn">Enquiry Now <i
+                                <a href="tender-coconut.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -332,7 +332,7 @@
                             <h3 class="service-title"><a>Snake Gourd</a></h3>
                             <p class="service-text">Fresh snake gourd used in healthy and traditional cooking.</p>
                             <div class="service-arrow">
-                                <a href="snake-gourd.html" class="theme-btn">Enquiry Now <i
+                                <a href="snake-gourd.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -353,7 +353,7 @@
                             <h3 class="service-title"><a>Small Onion</a></h3>
                             <p class="service-text">Premium quality small onions with strong flavor.</p>
                             <div class="service-arrow">
-                                <a href="small-onion.html" class="theme-btn">Enquiry Now <i
+                                <a href="small-onion.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -374,7 +374,7 @@
                             <h3 class="service-title"><a>Semi Husked Coconut</a></h3>
                             <p class="service-text">High quality semi husked coconuts suitable for export.</p>
                             <div class="service-arrow">
-                                <a href="semi-husked-coconut.html" class="theme-btn">Enquiry Now <i
+                                <a href="semi-husked-coconut.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -395,7 +395,7 @@
                             <h3 class="service-title"><a>Potato</a></h3>
                             <p class="service-text">Fresh farm potatoes with excellent quality.</p>
                             <div class="service-arrow">
-                                <a href="potato.html" class="theme-btn">Enquiry Now <i
+                                <a href="potato.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -416,7 +416,7 @@
                             <h3 class="service-title"><a>Mount Garlic</a></h3>
                             <p class="service-text">Strong flavored garlic used in various cuisines.</p>
                             <div class="service-arrow">
-                                <a href="mount-garlic.html" class="theme-btn">Enquiry Now <i
+                                <a href="mount-garlic.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -437,7 +437,7 @@
                             <h3 class="service-title"><a>Ivy Gourd</a></h3>
                             <p class="service-text">Fresh ivy gourd with high nutritional value.</p>
                             <div class="service-arrow">
-                                <a href="ivy-gourd.html" class="theme-btn">Enquiry Now <i
+                                <a href="ivy-gourd.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -458,7 +458,7 @@
                             <h3 class="service-title"><a>IR 64 Rice</a></h3>
                             <p class="service-text">Popular rice variety with excellent cooking quality.</p>
                             <div class="service-arrow">
-                                <a href="ir-64-rice.html" class="theme-btn">Enquiry Now <i
+                                <a href="ir-64-rice.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -479,7 +479,7 @@
                             <h3 class="service-title"><a>Drumstick</a></h3>
                             <p class="service-text">Fresh drumsticks rich in vitamins and minerals.</p>
                             <div class="service-arrow">
-                                <a href="drumstick.html" class="theme-btn">Enquiry Now <i
+                                <a href="drumstick.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -500,7 +500,7 @@
                             <h3 class="service-title"><a>Coconut</a></h3>
                             <p class="service-text">Premium quality coconuts suitable for all uses.</p>
                             <div class="service-arrow">
-                                <a href="coconut.html" class="theme-btn">Enquiry Now <i
+                                <a href="coconut.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -521,7 +521,7 @@
                             <h3 class="service-title"><a>BPT Rice</a></h3>
                             <p class="service-text">Fine quality BPT rice with superior taste.</p>
                             <div class="service-arrow">
-                                <a href="bpt-rice.html" class="theme-btn">Enquiry Now <i
+                                <a href="bpt-rice.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -542,7 +542,7 @@
                             <h3 class="service-title"><a>Asafoetida</a></h3>
                             <p class="service-text">Pure asafoetida used for flavor and medicinal benefits.</p>
                             <div class="service-arrow">
-                                <a href="asafoetida.html" class="theme-btn">Enquiry Now <i
+                                <a href="asafoetida.php" class="theme-btn">Enquiry Now <i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>

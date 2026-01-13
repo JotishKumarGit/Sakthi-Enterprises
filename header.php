@@ -31,7 +31,7 @@
             <nav class="navbar navbar-expand-lg">
                 <div class="container position-relative">
                     <!-- Logo on left side -->
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <span>Sivan Sakthi</span> Enterprises
                     </a>
                     <div class="mobile-menu-right">
@@ -43,11 +43,11 @@
                     <!-- Updated header menu without search -->
                     <div class="collapse navbar-collapse" id="main_nav">
                         <ul class="navbar-nav">
-                            <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
-                            <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-                            <li class="nav-item"><a class="nav-link" href="products.html">Products</a></li>
-                            <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+                            <li class="nav-item"><a class="nav-link" href="products.php">Products</a></li>
+                            <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                            <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                         </ul>
                         <div class="nav-right" style="margin-left: 50px;">
                             <div class="nav-right-btn mt-2 ">

@@ -25,50 +25,50 @@
     <!-- Breadcrumb Section -->
     <section class="breadcrumb-section">
         <div class="container breadcrumb-content">
-            <h1 class="text-white">Garlic</h1>
+            <h1 class="text-white">Semi Husked Coconut</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Garlic</li>
+                    <li class="breadcrumb-item active" aria-current="page">Semi Husked Coconut</li>
                 </ol>
             </nav>
         </div>
     </section>
 
-    <!-- Product Section -->
+    <!-- ================= PRODUCT DETAILS ================= -->
     <section class="container my-5">
         <div class="row align-items-center">
 
-            <!-- Left Side: Product Image -->
-            <div class="col-md-6 mb-4 mb-md-0">
-                <img src="img/Garlic.jpg" alt="Fresh Garlic" class="img-fluid rounded shadow">
+            <!-- Product Image -->
+            <div class="col-md-6 mb-4">
+                <img src="img/semi-husked-coconuts.jpg" class="img-fluid rounded shadow" alt="Semi Husked Coconut">
             </div>
 
-            <!-- Right Side: Product Details -->
+            <!-- Product Details -->
             <div class="col-md-6">
-                <h2 class="mb-3">Fresh Garlic</h2>
+                <h2>Semi Husked Coconut</h2>
                 <p class="text-muted">
-                    Fresh Garlic is a natural, healthy ingredient used worldwide for its flavor and medicinal
-                    properties.
+                    Semi Husked Coconut is partially de-husked for easy handling and
+                    longer shelf life. It is widely used for cooking, religious purposes,
+                    and commercial distribution.
                 </p>
 
-                <ul class="list-unstyled mb-4">
-                    <li><strong>Type:</strong> Organic Garlic</li>
-                    <li><strong>Color:</strong> White with Purple Stripes</li>
-                    <li><strong>Form:</strong> Whole Bulbs</li>
-                    <li><strong>Usage:</strong> Cooking, Seasoning, Health Remedies</li>
-                    <li><strong>Packaging:</strong> 100g, 250g, 500g</li>
+                <ul class="list-unstyled">
+                    <li><strong>Type:</strong> Semi Husked Coconut</li>
+                    <li><strong>Color:</strong> Brown (Partial Husk)</li>
+                    <li><strong>Form:</strong> Whole Coconut</li>
+                    <li><strong>Usage:</strong> Cooking, Pooja, Oil Extraction</li>
+                    <li><strong>Supply:</strong> Bulk & Retail</li>
                 </ul>
 
                 <p>
-                    Our garlic is carefully harvested to ensure maximum freshness and flavor.
-                    It is perfect for enhancing your meals while supporting overall wellness.
+                    Our semi husked coconuts are carefully selected and hygienically processed,
+                    ensuring high quality, freshness, and longer storage life.
                 </p>
 
-                <!-- Enquiry Button -->
-                <a href="" data-bs-toggle="modal" data-bs-target="#enquiryModal" class="btn btn-primary mt-3">
+                <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                     Enquiry Now
-                </a>
+                </button>
             </div>
 
         </div>

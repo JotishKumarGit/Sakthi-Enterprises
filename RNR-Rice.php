@@ -25,44 +25,44 @@
     <!-- Breadcrumb Section -->
     <section class="breadcrumb-section">
         <div class="container breadcrumb-content">
-            <h1 class="text-white">Garlic</h1>
+            <h1 class="text-white">RNR Rice</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Garlic</li>
+                    <li class="breadcrumb-item active" aria-current="page">RNR Rice</li>
                 </ol>
             </nav>
         </div>
     </section>
 
-    <!-- Product Section -->
+    <!-- products  details -->
     <section class="container my-5">
         <div class="row align-items-center">
 
             <!-- Left Side: Product Image -->
             <div class="col-md-6 mb-4 mb-md-0">
-                <img src="img/Garlic.jpg" alt="Fresh Garlic" class="img-fluid rounded shadow">
+                <img src="img/RNR-Rice.jpg" alt="RNR Rice" class="img-fluid rounded shadow">
             </div>
 
             <!-- Right Side: Product Details -->
             <div class="col-md-6">
-                <h2 class="mb-3">Fresh Garlic</h2>
+                <h2 class="mb-3">RNR Rice</h2>
                 <p class="text-muted">
-                    Fresh Garlic is a natural, healthy ingredient used worldwide for its flavor and medicinal
-                    properties.
+                    RNR Rice is premium quality rice known for its long grains, fluffy texture, and natural aroma.
+                    Ideal for everyday cooking and special dishes.
                 </p>
 
                 <ul class="list-unstyled mb-4">
-                    <li><strong>Type:</strong> Organic Garlic</li>
-                    <li><strong>Color:</strong> White with Purple Stripes</li>
-                    <li><strong>Form:</strong> Whole Bulbs</li>
-                    <li><strong>Usage:</strong> Cooking, Seasoning, Health Remedies</li>
-                    <li><strong>Packaging:</strong> 100g, 250g, 500g</li>
+                    <li><strong>Type:</strong> Premium Long-Grain Rice</li>
+                    <li><strong>Color:</strong> White / Off-White</li>
+                    <li><strong>Form:</strong> Polished Whole Grains</li>
+                    <li><strong>Usage:</strong> Daily Cooking, Biryani, Pilaf, Special Recipes</li>
+                    <li><strong>Packaging:</strong> 1kg, 5kg, 10kg</li>
                 </ul>
 
                 <p>
-                    Our garlic is carefully harvested to ensure maximum freshness and flavor.
-                    It is perfect for enhancing your meals while supporting overall wellness.
+                    Our RNR Rice is carefully processed to retain its natural aroma and texture,
+                    ensuring every meal is delicious and satisfying.
                 </p>
 
                 <!-- Enquiry Button -->

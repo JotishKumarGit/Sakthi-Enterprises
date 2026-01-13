@@ -25,54 +25,55 @@
     <!-- Breadcrumb Section -->
     <section class="breadcrumb-section">
         <div class="container breadcrumb-content">
-            <h1 class="text-white">Garlic</h1>
+            <h1 class="text-white">Potato</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Garlic</li>
+                    <li class="breadcrumb-item active" aria-current="page">Potato</li>
                 </ol>
             </nav>
         </div>
     </section>
 
-    <!-- Product Section -->
+    <!-- ================= PRODUCT DETAILS ================= -->
     <section class="container my-5">
         <div class="row align-items-center">
 
-            <!-- Left Side: Product Image -->
-            <div class="col-md-6 mb-4 mb-md-0">
-                <img src="img/Garlic.jpg" alt="Fresh Garlic" class="img-fluid rounded shadow">
+            <!-- Product Image -->
+            <div class="col-md-6 mb-4">
+                <img src="img/potato.jpg" class="img-fluid rounded shadow" alt="Fresh Potato">
             </div>
 
-            <!-- Right Side: Product Details -->
+            <!-- Product Details -->
             <div class="col-md-6">
-                <h2 class="mb-3">Fresh Garlic</h2>
+                <h2>Fresh Potato</h2>
                 <p class="text-muted">
-                    Fresh Garlic is a natural, healthy ingredient used worldwide for its flavor and medicinal
-                    properties.
+                    Potato is one of the most widely consumed vegetables, known for its
+                    versatility, nutritional value, and long shelf life. Suitable for
+                    daily cooking and commercial use.
                 </p>
 
-                <ul class="list-unstyled mb-4">
-                    <li><strong>Type:</strong> Organic Garlic</li>
-                    <li><strong>Color:</strong> White with Purple Stripes</li>
-                    <li><strong>Form:</strong> Whole Bulbs</li>
-                    <li><strong>Usage:</strong> Cooking, Seasoning, Health Remedies</li>
-                    <li><strong>Packaging:</strong> 100g, 250g, 500g</li>
+                <ul class="list-unstyled">
+                    <li><strong>Type:</strong> Fresh Potato</li>
+                    <li><strong>Color:</strong> Light Brown</li>
+                    <li><strong>Form:</strong> Whole Tuber</li>
+                    <li><strong>Usage:</strong> Cooking, Frying, Curry, Snacks</li>
+                    <li><strong>Supply:</strong> Bulk & Retail</li>
                 </ul>
 
                 <p>
-                    Our garlic is carefully harvested to ensure maximum freshness and flavor.
-                    It is perfect for enhancing your meals while supporting overall wellness.
+                    Our potatoes are carefully sourced from reliable farms,
+                    ensuring freshness, good texture, and excellent taste.
                 </p>
 
-                <!-- Enquiry Button -->
-                <a href="" data-bs-toggle="modal" data-bs-target="#enquiryModal" class="btn btn-primary mt-3">
+                <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                     Enquiry Now
-                </a>
+                </button>
             </div>
 
         </div>
     </section>
+
 
     <!-- Footer  -->
     <?php include('footer.php') ?>

@@ -25,44 +25,44 @@
     <!-- Breadcrumb Section -->
     <section class="breadcrumb-section">
         <div class="container breadcrumb-content">
-            <h1 class="text-white">Garlic</h1>
+            <h1 class="text-white">Green Cardamom</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Garlic</li>
+                    <li class="breadcrumb-item active" aria-current="page">Green Cardamom</li>
                 </ol>
             </nav>
         </div>
     </section>
 
-    <!-- Product Section -->
+    <!-- products details -->
     <section class="container my-5">
         <div class="row align-items-center">
 
             <!-- Left Side: Product Image -->
             <div class="col-md-6 mb-4 mb-md-0">
-                <img src="img/Garlic.jpg" alt="Fresh Garlic" class="img-fluid rounded shadow">
+                <img src="img/Green-Cardamom.jpg" alt="Green Cardamom" class="img-fluid rounded shadow">
             </div>
 
             <!-- Right Side: Product Details -->
             <div class="col-md-6">
-                <h2 class="mb-3">Fresh Garlic</h2>
+                <h2 class="mb-3">Green Cardamom</h2>
                 <p class="text-muted">
-                    Fresh Garlic is a natural, healthy ingredient used worldwide for its flavor and medicinal
-                    properties.
+                    Green Cardamom is a highly aromatic spice known for its sweet, slightly citrusy flavor.
+                    It is commonly used in cooking, baking, teas, and traditional medicines.
                 </p>
 
                 <ul class="list-unstyled mb-4">
-                    <li><strong>Type:</strong> Organic Garlic</li>
-                    <li><strong>Color:</strong> White with Purple Stripes</li>
-                    <li><strong>Form:</strong> Whole Bulbs</li>
-                    <li><strong>Usage:</strong> Cooking, Seasoning, Health Remedies</li>
-                    <li><strong>Packaging:</strong> 100g, 250g, 500g</li>
+                    <li><strong>Type:</strong> Organic Green Cardamom</li>
+                    <li><strong>Color:</strong> Green Pods with Brown Seeds</li>
+                    <li><strong>Form:</strong> Whole Pods</li>
+                    <li><strong>Usage:</strong> Culinary, Beverages, Desserts, Health Remedies</li>
+                    <li><strong>Packaging:</strong> 50g, 100g, 250g</li>
                 </ul>
 
                 <p>
-                    Our garlic is carefully harvested to ensure maximum freshness and flavor.
-                    It is perfect for enhancing your meals while supporting overall wellness.
+                    Our Green Cardamom is carefully selected for its freshness, strong aroma, and natural flavor.
+                    Perfect for enhancing dishes, beverages, and promoting digestive wellness.
                 </p>
 
                 <!-- Enquiry Button -->
